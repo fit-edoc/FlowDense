@@ -8,7 +8,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Video Gradient - Create Stunning Animated Backgrounds",
+  title: "FlowDense - Create Stunning Animated Backgrounds",
   description: "Create beautiful animated gradient backgrounds for your videos. Export in multiple formats and sizes for social media, presentations, and more.",
   keywords: ["gradient", "video", "background", "animation", "export", "social media"],
   authors: [{ name: "Video Gradient" }],
